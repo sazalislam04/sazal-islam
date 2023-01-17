@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Dream-Watch",
+    "img": "https://i.ibb.co/42BsvGD/screencapture-dream-watch-813a8-web-app-2023-01-04-22-11-42.png",
+    "subtitle": "Resale Website",
+    "features": [
+      "There are three roles such as admin, sellers, and buyers. Admin manage all users",
+      "Sellers can add their products and manage all products such as  delete, advertise, cancel advertise. Advertise products are showing home page",
+      "Buyers can book any products. After the booking is complete then navigate to my orders page. On my orders page, two options buyers can delete orders or payment orders. Payment method integrates by react stripe",
+      "ogin with email/password and Google, applied JWT token for server data security"
+    ],
+    "Technologies": [
+      "React JS",
+      "React Query",
+      "React Hook Form",
+      "Tailwind CSS",
+      "Firebase",
+      "Express JS",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Foodie-Express",
+    "img": "https://i.ibb.co/7SBDNYQ/screencapture-foodie-express-eb003-web-app-services-2023-01-04-22-31-45.png",
+    "subtitle": "Service review website",
+    "features": [
+      "There are some services and also users can add more services dynamically",
+      "Users can post their reviews on a particular service and also edit and update their reviews",
+      "Login with email/password, Google. Used Firebase Authentication. Applied JWT token for server data security."
+    ],
+    "Technologies": [
+      "React JS",
+      "Tailwind CSS",
+      "Firebase",
+      "Express JS",
+      "MongoDB",
+      "Swiper JS"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Learn-prg",
+    "img": "https://i.ibb.co/Fwqf36S/screencapture-learnprg-6d8ea-web-app-2023-01-04-23-03-33.png",
+    "subtitle": "Learning website",
+    "features": [
+      "There are some courses. Users can purchase any of them",
+      "Courses details and payment section is in a private route after login then redirecting them to the page they were",
+      "Login with email/password, Google/GitHub Used Firebase Authentication."
+    ],
+    "Technologies": [
+      "React JS",
+      "Tailwind CSS",
+      "Firebase",
+      "Express JS",
+      " AOS Animation"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Sweet-Twist-Quiz",
+    "img": "https://i.ibb.co/GxvQ2MM/screencapture-stwist-quiz-netlify-app-2023-01-11-13-34-25.png",
+    "subtitle": "Quiz website",
+    "features": [
+      "There are some courses. Users can purchase any of them",
+      "Courses details and payment section is in a private route after login then redirecting them to the page they were",
+      "Login with email/password, Google/GitHub Used Firebase Authentication."
+    ],
+    "Technologies": [
+      "React JS",
+      "Tailwind CSS",
+      "Firebase",
+      "React Router Dom",
+      " AOS Animation"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Educa-Tech",
+    "img": "https://i.ibb.co/gVvKgyR/screencapture-educatech-website-70cf0b-netlify-app-2023-01-11-13-44-14.png",
+    "subtitle": "Education Website",
+    "features": [
+      "There are some courses. Users can purchase any of them",
+      "Courses details and payment section is in a private route after login then redirecting them to the page they were",
+      "Login with email/password, Google/GitHub Used Firebase Authentication."
+    ],
+    "Technologies": ["HTML", "CSS", "Bootstrap5"]
+  },
+  {
+    "id": "6",
+    "title": "Penguin-Fashion",
+    "img": "https://i.ibb.co/98TyKwN/screencapture-incandescent-kitsune-ca277e-netlify-app-2023-01-11-13-49-51.png",
+    "subtitle": "HTML eCommerce Template",
+    "features": [
+      "There are some courses. Users can purchase any of them",
+      "Courses details and payment section is in a private route after login then redirecting them to the page they were",
+      "Login with email/password, Google/GitHub Used Firebase Authentication."
+    ],
+    "Technologies": ["HTML", "CSS", "Bootstrap5"]
+  }
+]

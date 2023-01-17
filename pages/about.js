@@ -46,7 +46,6 @@ const About = () => {
                 <div>
                   <div className="w-[80%] flex justify-between items-center py-1">
                     <p>HTML</p>
-                    <span>80%</span>
                   </div>
                   <div class="progress1 progress-moved">
                     <div class="progress-bar1"></div>
@@ -56,7 +55,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[70%] flex justify-between items-center py-1">
                     <p>CSS</p>
-                    <span>70%</span>
                   </div>
                   <div class="progress2 progress-moved">
                     <div class="progress-bar2"></div>
@@ -66,7 +64,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[70%] flex justify-between items-center py-1">
                     <p>JavaScript</p>
-                    <span>70%</span>
                   </div>
                   <div class="progress3 progress-moved">
                     <div class="progress-bar3"></div>
@@ -76,7 +73,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[75%] flex justify-between items-center py-1">
                     <p>React.js</p>
-                    <span>75%</span>
                   </div>
                   <div class="progress4 progress-moved">
                     <div class="progress-bar4"></div>
@@ -86,7 +82,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[50%] flex justify-between items-center py-1">
                     <p>Next.js</p>
-                    <span>50%</span>
                   </div>
                   <div class="progress8 progress-moved">
                     <div class="progress-bar8"></div>
@@ -96,7 +91,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[40%] flex justify-between items-center py-1">
                     <p>Node.js</p>
-                    <span>40%</span>
                   </div>
                   <div class="progress5 progress-moved">
                     <div class="progress-bar5"></div>
@@ -106,7 +100,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[50%] flex justify-between items-center py-1">
                     <p>Express.js</p>
-                    <span>50%</span>
                   </div>
                   <div class="progress6 progress-moved">
                     <div class="progress-bar6"></div>
@@ -116,7 +109,6 @@ const About = () => {
                 <div className="mt-2">
                   <div className="w-[60%] flex justify-between items-center py-1">
                     <p>MongoDB</p>
-                    <span>60%</span>
                   </div>
                   <div class="progress7 progress-moved">
                     <div class="progress-bar7"></div>
