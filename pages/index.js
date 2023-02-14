@@ -1,6 +1,7 @@
 import { Inter } from "@next/font/google";
 import Head from "next/head";
 import About from "./about";
+import Contact from "./contact";
 import HomePage from "./home";
 import Portfolio from "./portfolio";
 
@@ -19,6 +20,7 @@ export default function Home() {
         <HomePage />
         <About />
         <Portfolio />
+        <Contact />
       </main>
     </>
   );

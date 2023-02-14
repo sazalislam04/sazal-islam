@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <section className="py-10 ">
-        <div className="container mx-auto px-4">
+        <div className="container">
           <h2 className="text-4xl section-heading font-medium capitalize text-center">
             about <span className="text-indigo-800">me</span>
           </h2>
@@ -47,8 +47,8 @@ const About = () => {
                   <div className="w-[80%] flex justify-between items-center py-1">
                     <p>HTML</p>
                   </div>
-                  <div class="progress1 progress-moved">
-                    <div class="progress-bar1"></div>
+                  <div className="progress1 progress-moved">
+                    <div className="progress-bar1"></div>
                   </div>
                 </div>
                 {/* css */}
@@ -56,8 +56,8 @@ const About = () => {
                   <div className="w-[70%] flex justify-between items-center py-1">
                     <p>CSS</p>
                   </div>
-                  <div class="progress2 progress-moved">
-                    <div class="progress-bar2"></div>
+                  <div className="progress2 progress-moved">
+                    <div className="progress-bar2"></div>
                   </div>
                 </div>
                 {/* javascript */}
@@ -65,8 +65,8 @@ const About = () => {
                   <div className="w-[70%] flex justify-between items-center py-1">
                     <p>JavaScript</p>
                   </div>
-                  <div class="progress3 progress-moved">
-                    <div class="progress-bar3"></div>
+                  <div className="progress3 progress-moved">
+                    <div className="progress-bar3"></div>
                   </div>
                 </div>
                 {/* react */}
@@ -74,8 +74,8 @@ const About = () => {
                   <div className="w-[75%] flex justify-between items-center py-1">
                     <p>React.js</p>
                   </div>
-                  <div class="progress4 progress-moved">
-                    <div class="progress-bar4"></div>
+                  <div className="progress4 progress-moved">
+                    <div className="progress-bar4"></div>
                   </div>
                 </div>
                 {/* next js */}
@@ -83,8 +83,8 @@ const About = () => {
                   <div className="w-[50%] flex justify-between items-center py-1">
                     <p>Next.js</p>
                   </div>
-                  <div class="progress8 progress-moved">
-                    <div class="progress-bar8"></div>
+                  <div className="progress8 progress-moved">
+                    <div className="progress-bar8"></div>
                   </div>
                 </div>
                 {/* node */}
@@ -92,8 +92,8 @@ const About = () => {
                   <div className="w-[40%] flex justify-between items-center py-1">
                     <p>Node.js</p>
                   </div>
-                  <div class="progress5 progress-moved">
-                    <div class="progress-bar5"></div>
+                  <div className="progress5 progress-moved">
+                    <div className="progress-bar5"></div>
                   </div>
                 </div>
                 {/* express */}
@@ -101,8 +101,8 @@ const About = () => {
                   <div className="w-[50%] flex justify-between items-center py-1">
                     <p>Express.js</p>
                   </div>
-                  <div class="progress6 progress-moved">
-                    <div class="progress-bar6"></div>
+                  <div className="progress6 progress-moved">
+                    <div className="progress-bar6"></div>
                   </div>
                 </div>
                 {/* mongo */}
@@ -110,8 +110,8 @@ const About = () => {
                   <div className="w-[60%] flex justify-between items-center py-1">
                     <p>MongoDB</p>
                   </div>
-                  <div class="progress7 progress-moved">
-                    <div class="progress-bar7"></div>
+                  <div className="progress7 progress-moved">
+                    <div className="progress-bar7"></div>
                   </div>
                 </div>
               </div>

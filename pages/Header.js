@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <>
       <header className="py-4 shadow flex justify-between">
-        <nav className="hidden md:flex sticky top-0 items-center justify-between container mx-auto px-4">
+        <nav className="hidden md:flex sticky top-0 items-center justify-between container">
           <div className="text-3xl font-medium">
             <Image
               className="rounded-full"

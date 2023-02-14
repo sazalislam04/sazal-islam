@@ -10,7 +10,7 @@ import linkedin from "../public/linkedin.png";
 const HomePage = () => {
   return (
     <div className="py-28">
-      <div className="grid grid-cols-1 md:grid-cols-2 container mx-auto px-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 container">
         <div className="leading-9 md:mt-14 md:text-left text-center">
           <span className="text-4xl">Hello I'm</span>
           <h2 className="text-5xl lg:text-7xl font-semibold text-indigo-900">

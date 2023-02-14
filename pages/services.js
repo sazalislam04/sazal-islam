@@ -1,7 +1,7 @@
 const Services = () => {
   return (
     <section className="py-10">
-      <div className="container mx-auto px-4 grid grid-cols-1 gap-6 md:grid-cols-3">
+      <div className="container grid grid-cols-1 gap-6 md:grid-cols-3">
         <div
           className="relative block rounded-xl border border-gray-100 p-8 shadow-xl"
           href=""

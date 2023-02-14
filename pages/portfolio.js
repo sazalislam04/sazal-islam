@@ -5,11 +5,11 @@ const Portfolio = () => {
   return (
     <section className="py-10">
       <div>
-        <h2 className="text-center text-4xl section-heading">
+        <h2 className="text-center text-4xl section-heading mb-14">
           <span className="text-indigo-800">My</span> Works
         </h2>
       </div>
-      <div className="container px-4 mx-auto grid grid-cols-1 gap-10 mt-16 md:grid-cols-2 lg:grid-cols-3">
+      <div className="container grid grid-cols-1 gap-10 mt-16 md:grid-cols-2 lg:grid-cols-3">
         {data.map((project) => (
           <div key={project.id}>
             <div
